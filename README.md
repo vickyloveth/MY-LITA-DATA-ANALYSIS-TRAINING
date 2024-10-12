@@ -174,4 +174,26 @@ Pictorial representation of what Excel worksheet looks like whereby the upperpar
 
 
 
-- 
+DATA CLEANING ON EXCEL
+
+When it comes to data cleaning on excel, the main functions are Upper,Lower, Trim and Proper function.
+
+To eliminate excesses spaces in excel
+
+ =TRIM(TEXT)
+
+TO USE UPPER FUNCTION
+
+ =UPPER(TEXT)
+
+ TO ACHIEVE THE TRIMMED AND PROPER FUNCTION
+   =PROPER(TRIM(TEST))
+   
+![Screenshot (7)](https://github.com/user-attachments/assets/c13cd30b-67c2-4986-97bd-cbf654e8fc3c)
+
+
+TEXT EXTRACTION IN EXCEL
+
+Text extraction in Excel refers to the process of retrieving specific text or data from a cell or range of cells, often using formulas, functions, or other tools.
+
+
