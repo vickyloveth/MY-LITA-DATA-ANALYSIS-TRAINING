@@ -119,7 +119,7 @@ Data entry involves manually or automatically inputting data into a computer sys
 2. Consistency: Use standardized formats.
 3. Efficiency: Minimize errors and duplication.
 
-### Data Formatting
+ Data Formatting
 
 Data formatting involves organizing and presenting data in a clear, readable manner.
 
@@ -195,5 +195,13 @@ TO USE UPPER FUNCTION
 TEXT EXTRACTION IN EXCEL
 
 Text extraction in Excel refers to the process of retrieving specific text or data from a cell or range of cells, often using formulas, functions, or other tools.
+
+![Screenshot (8)](https://github.com/user-attachments/assets/b1ca5687-e134-4d09-8fd3-13d38bc7381f)
+
+On the table above, a record was lost but from the codes generated in the prevoius analysis, the records are easily retraceable using the Left, Mid and Right  Functions.
+
+
+#### STRUCTURED QUERY LANGUAGE- SQL
+
 
 
