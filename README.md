@@ -1,5 +1,18 @@
 # MY-LITA-DATA-ANALYSIS-TRAINING
-## FONDATION OF DATA
+
+## Table of content
+
+- Project overview
+- Foundation of data
+- Data cleaning and presentation
+- Tools used and understanding of each tools
+  
+  
+### PROJECT OVERVIEW
+This project aims at documenting all i have learnt so far on the basis of Data Analyisis. The understanding of Data, Data sources, Entry and the different types of tools used in DAta Analysis.
+
+
+### FOUNDATION OF DATA
 1. Data Literacy: Understanding the fundamentals of data, its types, sources, and applications. Data literacy encompasses:
 
 - Data interpretation
@@ -9,10 +22,9 @@
 2. Data Generation: Sources and methods of data creation:
 
 - Transactions (e.g., sales, payments)
-- Sensors (e.g., IoT devices)
 - Social media
 - Surveys
-- Machine-generated data (e.g., logs, telemetry)
+
 
 3. Data Structure: Organizing data for efficient storage and retrieval:
 
@@ -26,7 +38,6 @@
 - Relational databases (RDBMS)
 - NoSQL databases
 - Cloud storage (e.g., AWS S3)
-- Data lakes
 - Data warehousing
 
 5. Data Analysis: Examining data to extract insights:
@@ -51,9 +62,43 @@
 - Adjusting strategies based on data insights
 
 
+### Data cleaning and presentation
 
-## EXCEL AND EXCEL FUNCTIONS 
-### WHAT IS EXCEL
+Data cleaning is the process of ensuring accuracy, consistency, and reliability of data.
+
+Key aspects:
+
+1. Handling missing values
+2. Data normalization
+3. Data transformation
+4. Removing duplicates
+5. Data validation
+Data Presentation:
+
+Data presentation enables Effective data presentation communicates insights and findings.
+
+Key aspects:
+
+1. Data visualization (charts, graphs, tables)
+2. Dashboard design
+3. Storytelling with data
+4. Interactive visualizations
+5. Reporting and documentation
+
+### Tools used
+
+Microsoft Excel
+
+SQL-Structured Query language
+
+Github for portfolio building
+
+PowerBi
+
+
+#### EXCEL AND EXCEL FUNCTIONS 
+
+WHAT IS EXCEL
 
 Microsoft Excel is a versatile spreadsheet software developed by Microsoft, used globally for organizing data and performing financial analysis. Its key features include data entry, management, financial modeling, and charting. Excel is extensively used in finance and accounting for budgeting, forecasting, and analysis due to its robustness and flexibility. It supports various functions, formulas, and shortcuts to enhance productivity and efficiency. Excel is a vital tool for professionals in finance, accounting, and other fields requiring data organization and analysis.
 
@@ -66,16 +111,13 @@ The main uses of Excel include:
 - Charting and graphing
 - Programming
 
-### Data Entry
+Data Entry
 
 Data entry involves manually or automatically inputting data into a computer system or database. Best practices:
 
 1. Accuracy: Ensure data is entered correctly.
 2. Consistency: Use standardized formats.
 3. Efficiency: Minimize errors and duplication.
-
-#### The Excel interface
-
 
 ### Data Formatting
 
@@ -126,8 +168,9 @@ for example, we're ensuring all columns takes only numbers greater than zero;
 - a page pops up, choose allow whole numbers option and click on greater than 0
 - then okay
 
+Pictorial representation of what Excel worksheet looks like whereby the upperpart is called the INTERFACE and also comprises of the quick access tool bar
 
-
+![Screenshot (4)](https://github.com/user-attachments/assets/94782e92-be3c-4615-ad79-87a7bd739d58)
 
 
 
