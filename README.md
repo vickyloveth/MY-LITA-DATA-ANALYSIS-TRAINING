@@ -74,6 +74,9 @@ Data entry involves manually or automatically inputting data into a computer sys
 2. Consistency: Use standardized formats.
 3. Efficiency: Minimize errors and duplication.
 
+#### The Excel interface
+
+
 ### Data Formatting
 
 Data formatting involves organizing and presenting data in a clear, readable manner.
