@@ -203,5 +203,16 @@ On the table above, a record was lost but from the codes generated in the prevoi
 
 #### STRUCTURED QUERY LANGUAGE- SQL
 
+Structured Query language is used for storing and managing data in Relational Daatabase Management system(RDBMS). IT enables a userto relate to databases and tables.
 
+Various types of SQl commands are;
+
+- DDL- Data Definition Language (create, insert,Alter, Truncate)
+- DML- data Manipulation Language (insert, update, delete)
+- DCL- Data control language (Grant,revoke)
+- DQL- Data query Language(select)
+
+##### PROBLEM STATEMENT
+ Creating a database for a store with different branches in different location. 
+ 
 
