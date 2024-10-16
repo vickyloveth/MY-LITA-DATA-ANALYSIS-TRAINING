@@ -213,6 +213,6 @@ Various types of SQl commands are;
 - DQL- Data query Language(select)
 
 ##### PROBLEM STATEMENT
- Creating a database for a store with different branches in different location. 
+ Creating a database called Woman of substance store with different branches in different lagos. 
  
 
