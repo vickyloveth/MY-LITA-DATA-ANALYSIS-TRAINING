@@ -215,4 +215,61 @@ Various types of SQl commands are;
 ##### PROBLEM STATEMENT
  Creating a database called Woman of substance store with different branches in different lagos. 
  
+ ![Screenshot (9)](https://github.com/user-attachments/assets/7b9834c7-2052-4007-a00d-5d59f0d4607f)
 
+ The table aboves shows the query of my database creation for stores in Lagos. 
+ 
+![Screenshot (11)](https://github.com/user-attachments/assets/d805f809-2405-4c2c-ae59-e1bafda21a37)
+
+on this table, i use the Count query to count the address of each customer per location in Lagos and i was able to get
+ that.
+
+
+#### GITHUB
+
+What is GitHub?
+
+GitHub is a web-based platform for version control and collaboration on software development projects.
+
+Key Features:
+
+1. Repository creation and management
+2. Version control (Git)
+3. Collaborative coding
+4. Issue tracking
+5. Project management
+6. Open-source community
+
+Benefits:
+
+1. Streamlines development workflow
+2. Enhances collaboration
+3. Tracks changes and updates
+4. Secure and scalable
+5. Large community support
+
+Basic GitHub Concepts:
+
+1. Repositories (repos)
+2. Branches
+3. Commits
+4. Pull requests
+5. Merge
+
+Useful GitHub Terminology:
+
+1. Fork: Copy a repo
+2. Clone: Download a repo
+3. Push: Upload changes
+4. Pull: Fetch updates
+5. Commit: Save changes
+
+Getting Started:
+
+1. Create a GitHub account
+2. Explore repositories
+3. Learn Git basics
+4. Join open-source projects
+5. Start collaborating!
+
+GitHub is an essential tool for developers, providing a platform for seamless collaboration and version control.
