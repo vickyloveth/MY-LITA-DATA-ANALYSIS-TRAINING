@@ -155,13 +155,6 @@ Benefits:
 3. Enhanced data security
 4. Streamlined data processing
 
-Best practices:
-
-1. Validate data at entry point.
-2. Use automated validation tools 
-3. Provide clear error messages
-4. Continuously monitor data quality
-   
 for example, we're ensuring all columns takes only numbers greater than zero;
 - highlight all cells
 - go to data tab,click on data tools then click on data validation
@@ -256,14 +249,6 @@ Basic GitHub Concepts:
 4. Pull requests
 5. Merge
 
-Useful GitHub Terminology:
-
-1. Fork: Copy a repo
-2. Clone: Download a repo
-3. Push: Upload changes
-4. Pull: Fetch updates
-5. Commit: Save changes
-
 Getting Started:
 
 1. Create a GitHub account
@@ -273,3 +258,10 @@ Getting Started:
 5. Start collaborating!
 
 GitHub is an essential tool for developers, providing a platform for seamless collaboration and version control.
+
+
+#### POWERBI
+
+
+
+
