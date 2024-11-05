@@ -6,6 +6,7 @@
 - Foundation of data
 - Data cleaning and presentation
 - Tools used and understanding of each tools
+- HR data and presentation.
   
   
 ### PROJECT OVERVIEW
@@ -260,6 +261,8 @@ Getting Started:
 GitHub is an essential tool for developers, providing a platform for seamless collaboration and version control.
 
 
+
+
 #### - POWERBI
 
 Powerbi is a tool that enables users to transform raw data into meaningful insights through interactive visuals and reports.
@@ -331,7 +334,8 @@ Key Takeaways
 
 
 Visualizations
-- [Screenshot (24)](https://github.com/user-attachments/assets/26be4ffc-4598-4906-b8e1-51c2453ff580)
+- ![Screenshot (24)](https://github.com/user-attachments/assets/93b89514-a2fa-48b6-912a-1825f91966cf)
+
 - ![Screenshot (29)](https://github.com/user-attachments/assets/5d469688-1783-412d-8b27-7b9d7b2a72ce)
 
 
