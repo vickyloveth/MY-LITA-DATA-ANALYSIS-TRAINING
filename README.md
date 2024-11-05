@@ -260,7 +260,94 @@ Getting Started:
 GitHub is an essential tool for developers, providing a platform for seamless collaboration and version control.
 
 
-#### POWERBI
+#### - POWERBI
+
+Powerbi is a tool that enables users to transform raw data into meaningful insights through interactive visuals and reports.
+
+##### Dax Function: Data Analysis Expressions
+
+Dax function is a formula language and is a collection of functions,operators and constants that can be usedin a formula or expressions to calculate and return one or more.
+Below is a project i worked on;
+
+
+
+### HR DATA ANALYSIS AND VISUALIZATION
+
+#### PROJECT OVERVIEW
+
+This repository contains exploratory data analysis and visualization of HR data, focusing on employee attrition and demographic factors. The dataset includes 1470 rows and 44 columns, covering various aspects of employee information.
+
+Dataset Description
+
+The HR dataset comprises the following features:
+
+1. Attrition (yes/no)
+2. Business Travel (frequency)
+3. Age Band (categorical)
+4. Department (categorical)
+5. Educational Field (categorical)
+6. Employee Number (unique identifier)
+7. Gender (categorical)
+8. Job Role (categorical)
+9. Marital Status (categorical)
+10. Overtime (yes/no)
+11. No of training in a year
+12. age
+13. current employees, etc.
+
+Analysis and Findings
+
+Attrition Analysis
+
+1. Attrition Rate: The overall attrition rate is 16% out of 1470 employees which indicating a moderate level of employee turnover.
+
+2. Department-wise Attrition: The R&D department has the highest attrition rate (56.12%), followed by sales with(38.82%) while HR has the lowest(5.06%). 
+
+3. Age Band and Attrition: Employees in the 25-34 age band have the highest attrition count (112), while those in the 55 and below age band have the lowest count (11).
+
+4. Job Role and Attrition count based on thier satisfation: Manager and research director has the lowest attrition count with (5 and 2, respectively) compared to laboratory technician (62) and sales executive (57) which indicates how satisfied they are with thier job.
+
+5. Gender and Attrition count: The male gender has the highest total sum of attrition of 150(63.29%) while the female gender has 87 sum of attrion count with (36,71%).
+
+Demographic Insights
+
+1. Gender Distribution: The workforce is predominantly male (63.2%), with females comprising 36.71%.
+
+2. Marital Status: single employees constitute 50.6% of the workforce, married employees make up 35.44% while divorced has 13.92%.
+
+3. Educational Field: The majority of employees hold a high school leaving certificate (23.95%), followed by Bachelor's degree(22.73%), then Associaate degree(20.49%).
+
+Key Takeaways
+
+1. R&D and Sales departments require targeted retention strategies.
+
+2. Business travel frequency impacts attrition; consider flexible work arrangements.
+
+3. Employees in the 25-34 age band require engagement and development opportunities.
+
+4. Laboratory technician and sales department needs support and training.
+
+5. Department-specific strategies can improve overall retention.
+
+
+Visualizations
+- [Screenshot (24)](https://github.com/user-attachments/assets/26be4ffc-4598-4906-b8e1-51c2453ff580)
+- ![Screenshot (29)](https://github.com/user-attachments/assets/5d469688-1783-412d-8b27-7b9d7b2a72ce)
+
+
+Code and Tools
+
+- Power Bi Dax function
+
+Conclusion
+
+This project demonstrates my ability to:
+
+1. Clean and preprocess HR data
+2. Conduct exploratory data analysis
+3. Visualize key insights using powerbi
+4. Identify potential factors influencing employee attrition
+
 
 
 
